@@ -57,7 +57,8 @@ print(Y1_Scaled)
 
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/user-attachments/assets/faa1f7d1-9fef-42d6-8d45-0beb73bcf44e)
+
 
 
 ## Result:
